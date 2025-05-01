@@ -1,5 +1,3 @@
-# omni-law-website  
-A custom WordPress website developed for **Omni Law P.C**, a global legal firm specializing in business and corporate law. The site is designed to showcase legal expertise, build credibility, and connect with businesses seeking reliable legal representation.  
 # Omni Law P.C. Website – [Live Website](https://omnilawpc.com/) 
 
 ---
